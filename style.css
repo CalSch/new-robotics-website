@@ -6,6 +6,18 @@ body {
     font-family: 'Inter', sans-serif;
 }
 
+header {
+    padding-left:5px;
+    padding-top:15px;
+    padding-bottom:15px;
+    background-color: rgb(0, 20, 20);
+}
+
+.title {
+    font-size: 65px;
+    margin: 140px 0px;
+}
+
 .text-center {
     text-align: center;
 }
@@ -37,4 +49,4 @@ a {
 .sticky {
     position: sticky;
     top: 0;
-  }
+}
